@@ -1,3 +1,21 @@
-# happyplay-search-engine
-this is an new search engine to this place we will love your support
-// we making and search engine small and fast 
+# 🔎 HappyPlay Search
+
+**HappyPlay Search** is a lightweight, Python + Flask-based search engine that lets you browse indexed local content or quickly navigate to any URL.  
+It features **dark mode support**, an **About page**, and a clean logo-centered interface.
+
+![HappyPlay Search Logo](static/happyplay_logo.png)
+
+---
+
+## ✨ Features
+
+- 🌐 **Search** through locally stored crawled data (`crawled_data.txt`)
+- 🔗 **Direct URL redirect** when a full link is entered
+- 🌙 **Automatic dark/light mode** based on the user's system settings
+- 📄 **About page** (`//about` or `/about`)
+- 🎨 **Custom centered logo** for a clean, minimal UI
+
+---
+
+## 📂 Project Structure
+

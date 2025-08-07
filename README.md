@@ -11,7 +11,7 @@ It features **dark mode support**, an **About page**, and a clean logo-centered 
 - 🌐 **Search** through locally stored crawled data (`crawled_data.txt`)
 - 🔗 **Direct URL redirect** when a full link is entered
 - 🌙 **Automatic dark/light mode** based on the user's system settings
-- 📄 **About page** (`//about` or `/about`)
+- 📄 **About page** (`//about` or `//:about`)
 - 🎨 **Custom centered logo** for a clean, minimal UI
 
 ---
